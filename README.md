@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha Sharma</h1>
-<h3 align="center">A passionate DevOps Engineer from India I'm open to discussions, collaborations, and knowledge sharing. If you share a passion for all things DevOps, automation, and cloud, feel free to connect! Let's build the future together.</h3>
+<h3 align="center">I am passionate about DevOps and all Cloud Native things and I love to learn new technology.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2022/07/devOps-cloud-native-1.gif">
 
