@@ -3,7 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2022/07/devOps-cloud-native-1.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghasharmaaa&label=Profile%20views&color=0e75b6&style=flat" alt="meghasharmaaa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/meghasharmaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/meghasharmaaaa?logo=twitter&style=for-the-badge" alt="meghasharmaaaa" /></a> </p>
