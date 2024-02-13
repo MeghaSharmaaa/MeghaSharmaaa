@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/meghasharmaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meghasharmaaaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/meghassharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meghassharma" height="30" width="40" /></a>
-<a href="https://hashnode.com/meghasharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="meghasharmaa" height="30" width="40" /></a>
+<a href="https://hashnode.com/@meghasharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="meghasharmaa" height="30" width="40" /></a>
 <a href="https://medium.com/meghasharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="meghasharmaa" height="30" width="40" /></a>
 </p>
 
